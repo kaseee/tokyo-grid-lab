@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.spec text eol=lf
+*.png binary
+*.gif binary
+*.ico binary
+*.otf binary
+*.npz binary
+*.zip binary

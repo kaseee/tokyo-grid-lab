@@ -1,0 +1,27 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '041104B0',
+        [StringStruct('CompanyName', 'Portfolio'),
+         StringStruct('FileDescription', '東京エリア 電力需要予測 × 発電計画最適化'),
+         StringStruct('FileVersion', '1.0.0'),
+         StringStruct('InternalName', 'TokyoGridLab'),
+         StringStruct('LegalCopyright', 'Data: TEPCO Power Grid (でんき予報), Japan Meteorological Agency'),
+         StringStruct('OriginalFilename', 'TokyoGridLab.exe'),
+         StringStruct('ProductName', 'Tokyo Grid Lab'),
+         StringStruct('ProductVersion', '1.0.0')])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1041, 1200])])
+  ]
+)

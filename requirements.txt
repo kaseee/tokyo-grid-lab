@@ -1,0 +1,14 @@
+# アプリ（exe と同じバージョン）
+numpy==1.26.4
+scipy==1.14.1
+matplotlib==3.10.7
+contourpy==1.3.3
+lightgbm==4.7.0
+pulp==3.3.2
+highspy==1.13.1
+pillow
+# データ前処理・学習スクリプト用
+pandas==2.2.3
+jpholiday
+# アセット生成（フォントのサブセット化）
+fonttools
